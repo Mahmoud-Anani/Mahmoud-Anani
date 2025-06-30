@@ -48,17 +48,3 @@
 <img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
-
-<br/>
-<br/>
-<br/>
-
-<div style="display:none">
-  ### Visitor
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Mahmoud-Anani/count.svg" alt="" /></td>
-  </tr>
-</table>
-</div>
