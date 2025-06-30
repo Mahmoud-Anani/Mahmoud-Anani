@@ -53,10 +53,12 @@
 <br/>
 <br/>
 
-### Visitor
+<div style="display:none">
+  ### Visitor
 <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/Mahmoud-Anani/count.svg" alt="" /></td>
   </tr>
 </table>
+</div>
