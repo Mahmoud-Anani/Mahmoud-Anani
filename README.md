@@ -36,6 +36,15 @@
 <img align="left" src="https://img.shields.io/badge/php%23-%23239120.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/vb%23-%23239120.svg?style=for-the-badge&logo=vb&logoColor=white"/>
 
+
+### Visitor
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Ridter/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 <br/>
 <br/>
 <br/>
