@@ -7,14 +7,11 @@
 - 📹 My YouTube Channel: https://www.youtube.com/@Mahmoud_Anani
   <br/>
   <br/>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Anani&show_icons=true&theme=gruvbox"/>
-  <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Anani&layout=compact"/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
+<h2>GitHub Stats</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-anani&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-anani&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-anani&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-anani&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-anani&theme=aura_dark&utcOffset=8)
   <br/>
   <br/>
 
@@ -46,5 +43,4 @@
 
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
