@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Software Engineering
 - 💞️ I’m looking to collaborate on ReactJS, NestJS.
-- 📫 How to reach me? mahmoud18957321@gmail.com
+- 📫 How to reach me? mahmoud.anani.g@gmail.com
 - 💻 My LinkedIn: https://www.linkedin.com/in/mahmoud-anani
 - 📹 My YouTube Channel: https://www.youtube.com/@Mahmoud_Anani
   <br/>
